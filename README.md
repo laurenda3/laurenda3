@@ -32,10 +32,10 @@ Languages: Python, SQL
 
 Tools: Git, GitHub, VS Code, Atlassian (Jira/Confluence)
 
-Concepts: Remote Tech Support, Troubleshooting, Basic CI/CD, Networking Fundamentals
+Concepts: Remote Tech Support, Troubleshooting, Networking Fundamentals
 
 🧠 Always Learning
-I’m actively sharpening my skills through a self-directed Linux bootcamp, hands-on labs, and scripting projects to simulate real IT environments.
+I’m actively sharpening my skills through a self-directed Linux bootcamp, hands-on labs, basic CI/CD and scripting projects to simulate real IT environments.
 
 🎮 Fun Fact
 I built a classic Alien Invasion game using Python and Pygame—feel free to check it out in my repos!

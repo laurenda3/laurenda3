@@ -28,7 +28,7 @@ I enjoy solving real-world problems, improving systems, and learning by doing �
 - [🏀 Jordan vs LeBron](https://github.com/laurenda3/Jordan_V_Lebron): A Python data project analyzing NBA careers with visual storytelling
 - [👾 Alien Invasion Game](https://github.com/laurenda3/alien_invasion): Classic arcade shooter built in Python using Pygame
 - [🌤️ Petty Weather](https://github.com/Ylaurenda3/pettyWeaather): A fun JavaScript app that gives you the weather — and a snarky remark — based on your selected city using the OpenWeatherMap API
-- [🃏 Pitty Pat Card Game](https://github.com/laurenda3/pittyPat): A work-in-progress browser game using the Deck of Cards API to bring a classic card game to life
+- [🃏 Pitty Pat Card Game](https://github.com/laurenda3/pittyPat): A work-in-progress browser game using the Deck of Cards API to bring the classic New Orleans card game to life
 - [🧠 Codewars JavaScript Solutions](https://github.com/laurenda3/codeWars): A growing collection of JavaScript coding challenges
 
 ---

@@ -1,43 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Laurenda
 
-My name is Laurenda,
+I'm a full-stack software engineer with a background in IT support, now focused on building dynamic web applications and automations using JavaScript and Python.
 
-I’m a Help Desk Technician with experience in technical support, troubleshooting, and remote desktop assistance. I thrive on solving problems, supporting users, and continuously leveling up my technical skills through real-world labs and personal projects.
+I enjoy solving real-world problems, improving systems, and learning by doing — whether it's visualizing data, automating workflows, or coding games.
 
-<!--
-**laurenda3/laurenda3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+- **Languages**: JavaScript, Python, SQL
+- **Frontend**: HTML, CSS, DOM manipulation (React on deck!)
+- **Backend**: Node.js, Express, Flask
+- **APIs**: RESTful APIs, OpenWeatherMap, Deck of Cards API
+- **Tools**: Git, GitHub, VS Code, Bash, Pygame, Jira/Confluence
+- **Operating Systems**: Linux (Ubuntu, WSL), Windows
 
-- 🔭 I’m currently working on expanding my knowledge.
-- 🌱 I’m currently learning to use Linux, Python and Azure.
-- 👯 I’m looking to collaborate on many projects so that I may practice.
-- ♎ I’m looking for help with getting started.
-- 📫 How to reach me: [GitHub](github.com/laurenda3) 
---> 
+---
 
-💻 What I'm Working On
-Building and maintaining Linux systems in a home lab
+### 🚧 Current Focus
+- Building full-stack applications from scratch
+- Strengthening backend logic and API design
+- Automating tasks using Python and Bash
+- Practicing CI/CD fundamentals in a simulated dev environment
 
-Automating common support tasks using Bash and Python
+---
 
-Practicing system diagnostics, disk usage analysis, and log reviews
+### 📊 Featured Projects
+- [🏀 Jordan vs LeBron](https://github.com/laurenda3/Jordan_V_Lebron): A Python data project analyzing NBA careers with visual storytelling
+- [👾 Alien Invasion Game](https://github.com/laurenda3/alien_invasion): Classic arcade shooter built in Python using Pygame
+- [🌤️ Petty Weather](https://github.com/Ylaurenda3/pettyWeaather): A fun JavaScript app that gives you the weather — and a snarky remark — based on your selected city using the OpenWeatherMap API
+- [🃏 Pitty Pat Card Game](https://github.com/laurenda3/pittyPat): A work-in-progress browser game using the Deck of Cards API to bring a classic card game to life
+- [🧠 Codewars JavaScript Solutions](https://github.com/laurenda3/codeWars): A growing collection of JavaScript coding challenges
 
-Exploring network troubleshooting tools like ping, traceroute, dig, and netstat
+---
 
-🛠️ Skills & Tools
-Operating Systems: Linux (Ubuntu, WSL), Windows
+### 📚 Always Learning
+Currently learning React and deepening my understanding of full-stack architecture through hands-on projects and open-source collaboration.
 
-Languages: Python, SQL
+---
 
-Tools: Git, GitHub, VS Code, Atlassian (Jira/Confluence)
-
-Concepts: Remote Tech Support, Troubleshooting, Networking Fundamentals
-
-🧠 Always Learning
-I’m actively sharpening my skills through a self-directed Linux bootcamp, hands-on labs, basic CI/CD and scripting projects to simulate real IT environments.
-
-🎮 Fun Fact
-I built a classic Alien Invasion game using Python and Pygame—feel free to check it out in my repos!
-
-📫 How to reach me: [GitHub](github.com/laurenda3) 
+### 🎯 Let's Connect
+Feel free to explore my repos or reach out via [GitHub](https://github.com/laurenda3)!

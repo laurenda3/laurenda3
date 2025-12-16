@@ -10,27 +10,27 @@ Software engineer specializing in enterprise automation, API integration, and fu
 
 Developed 5 production-ready ServiceNow applications demonstrating full platform capabilities: data modeling, workflow automation, API integration, mobile UX, and executive analytics.
 
-### [Asset & NSPIRE Compliance Application](https://github.com/yourusername/servicenow-asset-compliance)
+### [Asset & NSPIRE Compliance Application](https://github.com/laurenda3/servicenow-asset-compliance)
 Custom scoped application enforcing HUD regulatory compliance across multi-unit residential properties. Engineered a 5-table relational data model with automated compliance tracking and deadline management.  
 **Tech:** ServiceNow Platform, JavaScript (Business Rules), Flow Designer, GlideRecord API  
 **Impact:** 450% ROI, 17-point NSPIRE pass rate increase
 
-### [Financial Governance & Procurement Application](https://github.com/yourusername/servicenow-procurement-workflow)
+### [Financial Governance & Procurement Application](https://github.com/laurenda3/servicenow-procurement-workflow)
 Multi-tier approval workflow with intelligent inventory checks preventing duplicate purchasing and unauthorized spending.  
 **Tech:** Flow Designer, REST API integration, Server-side JavaScript  
 **Impact:** 320% ROI, 80% reduction in approval cycle time, $60K annual savings
 
-### [IoT Event Management Integration Module](https://github.com/yourusername/servicenow-iot-integration)
+### [IoT Event Management Integration Module](https://github.com/laurenda3/servicenow-alert-automation)
 RESTful API integration bridging external IoT sensor networks with ServiceNow for automated incident creation from equipment telemetry.  
 **Tech:** Scripted REST APIs, JSON parsing, GlideRecord automation, Event-driven architecture  
 **Impact:** 99.6% faster alert processing, $40K preventable damage avoided
 
-### [Mobile Field Operations Portal](https://github.com/yourusername/servicenow-mobile-portal)
+### [Mobile Field Operations Portal](https://github.com/laurenda3/servicenow-maintenance-portal)
 Mobile-first Service Portal delivering critical maintenance data to field technicians on any device through responsive, touch-optimized UX.  
 **Tech:** Service Portal framework, Bootstrap 4, AngularJS, Responsive design  
 **Impact:** 280% ROI, 95% status update compliance (up from 60%)
 
-### [Executive Operations Dashboard](https://github.com/yourusername/servicenow-executive-dashboard)
+### [Executive Operations Dashboard](https://github.com/laurenda3/executive_dashboard)
 Platform Analytics dashboard consolidating 3 data sources into strategic KPIs: compliance risk, process bottlenecks, and resource allocation.  
 **Tech:** Platform Analytics, Data aggregation (COUNT/AVERAGE), Custom data visualization  
 **Impact:** Single-pane executive visibility replacing manual multi-system report compilation
@@ -46,15 +46,15 @@ Platform Analytics dashboard consolidating 3 data sources into strategic KPIs: c
 
 ## 🖥️ IT Infrastructure Projects
 
-### [osTicket Post-Installation Configuration](https://github.com/yourusername/osticket-post-config)
+### [osTicket Post-Installation Configuration](https://github.com/laurenda3/osticket-post-config)
 Complete help desk system deployment: roles, departments, SLA configuration, and ticket lifecycle management.  
 **Tech:** osTicket, LAMP stack, Help desk administration
 
-### [Active Directory Domain Configuration](https://github.com/yourusername/configure-ad)
+### [Active Directory Domain Configuration](https://github.com/laurenda3/configure-ad)
 Enterprise domain controller setup with OU structure, Group Policy, and user/group management.  
 **Tech:** Windows Server, Active Directory, PowerShell, Group Policy
 
-### [Automated Help Desk Ticketing](https://github.com/yourusername/automated-helpdesk)
+### [Automated Help Desk Ticketing](https://github.com/laurenda3/automated-helpdesk)
 osTicket automation demonstrating ticket lifecycle from creation through resolution with role-based access.  
 **Tech:** osTicket, MySQL, SLA management
 
@@ -62,20 +62,20 @@ osTicket automation demonstrating ticket lifecycle from creation through resolut
 
 ## 💻 Full-Stack Development
 
-### [InspectFlow](https://github.com/yourusername/inspectflow)
+### [InspectFlow](https://github.com/laurenda3/inspectflow)
 Full-stack application digitizing machining inspection workflows. Eliminates paper reports, tracks gauge calibrations, and ensures inspectors have correct documentation.  
 **Tech:** Next.js (React), TypeScript, Express API, Tailwind CSS  
 **Features:** Real-time data validation, responsive design, RESTful backend
 
-### [Jordan vs LeBron Stats Comparison](https://github.com/yourusername/jordan-vs-lebron)
+### [Jordan vs LeBron Stats Comparison](https://github.com/laurenda3/Jordan_V_Lebron)
 Data visualization project analyzing NBA career statistics through custom plotting and advanced metrics.  
 **Tech:** Python, Pandas, Matplotlib, Jupyter Notebook
 
-### [Alien Invasion](https://github.com/yourusername/alien-invasion)
+### [Alien Invasion](https://github.com/laurenda3/alien_invasion)
 Retro arcade shooter demonstrating event handling, collision detection, and OOP design patterns.  
 **Tech:** Python, Pygame, Object-oriented programming
 
-### [Petty Weather](https://github.com/yourusername/petty-weather)
+### [Petty Weather](https://github.com/laurenda3/pettyWeather)
 Weather forecasting application with OpenWeatherMap API integration and responsive UI.  
 **Tech:** JavaScript, OpenWeatherMap API, CSS
 

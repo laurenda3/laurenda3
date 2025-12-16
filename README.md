@@ -1,137 +1,148 @@
 # Laurenda Landry
 
-**Full-Stack Developer | ServiceNow Solutions Architect | Process Automation Specialist**
+**ServiceNow Developer | Process Automation & Integration Specialist**
 
-Software engineer specializing in enterprise automation, API integration, and full-stack web development. Background in industrial inspection and IT infrastructure informs a practical approach to solving real-world operational challenges through code.
+I design and build ServiceNow solutions that replace manual, error-prone processes with automated, auditable systems. My work focuses on custom application development, workflow automation, and platform integrations that solve real operational problems—not demo-only ticketing scenarios.
 
----
-
-## 🏗️ ServiceNow Portfolio
-
-Developed 5 production-ready ServiceNow applications demonstrating full platform capabilities: data modeling, workflow automation, API integration, mobile UX, and executive analytics.
-
-### [Asset & NSPIRE Compliance Application](https://github.com/laurenda3/servicenow-asset-compliance)
-Custom scoped application enforcing HUD regulatory compliance across multi-unit residential properties. Engineered a 5-table relational data model with automated compliance tracking and deadline management.  
-**Tech:** ServiceNow Platform, JavaScript (Business Rules), Flow Designer, GlideRecord API  
-**Impact:** 450% ROI, 17-point NSPIRE pass rate increase
-
-### [Financial Governance & Procurement Application](https://github.com/laurenda3/servicenow-procurement-workflow)
-Multi-tier approval workflow with intelligent inventory checks preventing duplicate purchasing and unauthorized spending.  
-**Tech:** Flow Designer, REST API integration, Server-side JavaScript  
-**Impact:** 320% ROI, 80% reduction in approval cycle time, $60K annual savings
-
-### [IoT Event Management Integration Module](https://github.com/laurenda3/servicenow-alert-automation)
-RESTful API integration bridging external IoT sensor networks with ServiceNow for automated incident creation from equipment telemetry.  
-**Tech:** Scripted REST APIs, JSON parsing, GlideRecord automation, Event-driven architecture  
-**Impact:** 99.6% faster alert processing, $40K preventable damage avoided
-
-### [Mobile Field Operations Portal](https://github.com/laurenda3/servicenow-maintenance-portal)
-Mobile-first Service Portal delivering critical maintenance data to field technicians on any device through responsive, touch-optimized UX.  
-**Tech:** Service Portal framework, Bootstrap 4, AngularJS, Responsive design  
-**Impact:** 280% ROI, 95% status update compliance (up from 60%)
-
-### [Executive Operations Dashboard](https://github.com/laurenda3/executive_dashboard)
-Platform Analytics dashboard consolidating 3 data sources into strategic KPIs: compliance risk, process bottlenecks, and resource allocation.  
-**Tech:** Platform Analytics, Data aggregation (COUNT/AVERAGE), Custom data visualization  
-**Impact:** Single-pane executive visibility replacing manual multi-system report compilation
-
-**Portfolio Highlights:**
-- 10+ custom tables with normalized relational design
-- REST API integration (inbound/outbound)
-- Multi-tier workflow automation
-- Mobile-responsive UX design
-- Executive-level business intelligence
+My background in operations, compliance, and IT support informs a practical engineering mindset: every solution is designed to be usable, scalable, and defensible in a real business environment.
 
 ---
 
-## 🖥️ IT Infrastructure Projects
+## 🔹 ServiceNow Project Portfolio
 
-### [osTicket Post-Installation Configuration](https://github.com/laurenda3/osticket-post-config)
-Complete help desk system deployment: roles, departments, SLA configuration, and ticket lifecycle management.  
-**Tech:** osTicket, LAMP stack, Help desk administration
+Below are production-style ServiceNow applications built on the **Zurich release**, demonstrating end-to-end platform capability: data modeling, server-side scripting, workflow automation, integrations, analytics, and UX design.
 
-### [Active Directory Domain Configuration](https://github.com/laurenda3/configure-ad)
-Enterprise domain controller setup with OU structure, Group Policy, and user/group management.  
-**Tech:** Windows Server, Active Directory, PowerShell, Group Policy
-
-### [Automated Help Desk Ticketing](https://github.com/laurenda3/automated-helpdesk)
-osTicket automation demonstrating ticket lifecycle from creation through resolution with role-based access.  
-**Tech:** osTicket, MySQL, SLA management
+Each project addresses a distinct business problem and can be reviewed independently.
 
 ---
 
-## 💻 Full-Stack Development
+### 🏗️ [Asset & NSPIRE Compliance Application](https://github.com/laurenda3/servicenow-asset-compliance)
+**Focus:** Regulatory compliance, asset lifecycle tracking, automation
 
-### [InspectFlow](https://github.com/laurenda3/inspectflow)
-Full-stack application digitizing machining inspection workflows. Eliminates paper reports, tracks gauge calibrations, and ensures inspectors have correct documentation.  
-**Tech:** Next.js (React), TypeScript, Express API, Tailwind CSS  
-**Features:** Real-time data validation, responsive design, RESTful backend
+Custom scoped application designed to track residential assets, inspections, warranties, and HUD NSPIRE compliance deadlines across multi-unit properties.
 
-### [Jordan vs LeBron Stats Comparison](https://github.com/laurenda3/Jordan_V_Lebron)
-Data visualization project analyzing NBA career statistics through custom plotting and advanced metrics.  
-**Tech:** Python, Pandas, Matplotlib, Jupyter Notebook
+**Highlights**
+- Custom relational data model (units, assets, inspections, warranties)
+- Automated compliance status calculation and deadline tracking
+- Server-side business rules enforcing data integrity
+- Cross-application integration with maintenance workflows
 
-### [Alien Invasion](https://github.com/laurenda3/alien_invasion)
-Retro arcade shooter demonstrating event handling, collision detection, and OOP design patterns.  
-**Tech:** Python, Pygame, Object-oriented programming
-
-### [Petty Weather](https://github.com/laurenda3/pettyWeather)
-Weather forecasting application with OpenWeatherMap API integration and responsive UI.  
-**Tech:** JavaScript, OpenWeatherMap API, CSS
+**Primary Skills:**  
+ServiceNow Data Modeling, Business Rules, GlideRecord API, Flow Designer, Compliance Automation
 
 ---
 
-## ⚙️ Technical Skills
+### 💰 [Financial Governance & Procurement Application](https://github.com/laurenda3/servicenow-procurement-workflow) 
+**Focus:** Approval workflows, financial controls, auditability
 
-**Enterprise Platforms:**  
-ServiceNow (Zurich), Active Directory, osTicket
+Scoped application automating maintenance procurement with conditional approval tiers and inventory validation to prevent unauthorized or duplicate spending.
 
-**Languages:**  
-JavaScript, TypeScript, Python, SQL, Bash
+**Highlights**
+- Multi-tier approval logic using Flow Designer
+- Dynamic approval thresholds based on cost
+- Inventory lookup via cross-table GlideRecord queries
+- Email-based approvals with full audit trail
 
-**Frontend:**  
-React, Next.js, Tailwind CSS, Bootstrap, HTML/CSS, AngularJS
-
-**Backend:**  
-Node.js, Express, Flask, RESTful APIs
-
-**ServiceNow Development:**  
-Flow Designer, Business Rules, GlideRecord API, Service Portal, Platform Analytics, Scripted REST APIs, JSON parsing
-
-**DevOps & Tools:**  
-Git, GitHub, VS Code, WSL/Ubuntu, PowerShell, CI/CD
-
-**Databases:**  
-Relational data modeling, SQL, MySQL
+**Primary Skills:**  
+Flow Designer, Server-Side JavaScript, Approval Engine, Cross-Scope Integration
 
 ---
 
-## 🎯 Core Competencies
+### 🌐 [IoT Event Management Integration Module](https://github.com/laurenda3/servicenow-alert-automation)
+**Focus:** Platform integration, event-driven automation
 
-**Integration Engineering:** RESTful APIs, webhook integration, JSON data processing, external system connectivity  
-**Process Automation:** Multi-tier approval workflows, event-driven architecture, business rule scripting  
-**UX/UI Design:** Mobile-first responsive design, user-centered interface development, accessibility  
-**Business Intelligence:** Executive dashboards, KPI tracking, data aggregation and visualization  
-**Data Modeling:** Normalized relational schemas, referential integrity, custom table architecture
+Integration module designed to ingest external IoT telemetry and automatically create incidents based on severity and alert type.
 
----
+**Highlights**
+- Custom event capture table for inbound alerts
+- Server-side automation triggering incident creation
+- Intelligent routing based on alert type and severity
+- REST API-ready architecture for external systems
 
-## 📊 Portfolio Impact Metrics
-
-- **5 Enterprise Applications:** Asset Management, Procurement, IoT Integration, Mobile Portal, Analytics Dashboard
-- **$163K+ Annual Value:** Combined ROI across automation implementations
-- **10+ Custom Data Tables:** Normalized schemas with complex relationships
-- **API Integration:** Inbound REST webhooks, JSON parsing, external sensor connectivity
-- **Mobile-First UX:** 80% mobile usage, 95% user compliance
+**Primary Skills:**  
+Scripted REST APIs, JSON Parsing, Event-Driven Design, Integration Architecture
 
 ---
 
-## 🔗 Connect
+### 📱 [Mobile Field Operations Portal](https://github.com/laurenda3/servicenow-maintenance-portal) 
+**Focus:** UX/UI, Service Portal, mobile-first design
 
-**Portfolio:** [lauland.dev](https://lauland.dev)  
-**LinkedIn:** [linkedin.com/in/lauland](https://linkedin.com/in/lauland)  
-**GitHub:** Explore repositories for code examples and documentation
+Mobile-responsive Service Portal enabling field technicians to manage work orders and alerts without returning to an office workstation.
+
+**Highlights**
+- Mobile-first layout using Service Portal framework
+- Metric cards for real-time situational awareness
+- Context-specific alert feeds (maintenance, not IT tickets)
+- Responsive behavior optimized for phones and tablets
+
+**Primary Skills:**  
+Service Portal, AngularJS, Bootstrap, UX Design, Responsive Layouts
 
 ---
 
-**Philosophy:** Build practical solutions that eliminate manual processes through thoughtful engineering. Every application solves a real operational challenge with measurable business impact.
+### 📊 [Operations and Executive Dashboard](https://github.com/laurenda3/executive_dashboard) 
+**Focus:** Analytics, reporting, executive visibility
+
+Analytics dashboard consolidating operational data into real-time KPIs for compliance, workload, and process efficiency.
+
+**Highlights**
+- Platform Analytics widgets (metrics, charts, aggregations)
+- Custom data aggregation logic
+- Filters for compliance risk and process bottlenecks
+- Designed for non-technical stakeholders
+
+**Primary Skills:**  
+Platform Analytics, Reporting, Data Visualization, KPI Design
+
+---
+
+## 🔧 Supporting Infrastructure & Systems Projects
+
+In addition to ServiceNow development, this repository includes projects demonstrating systems administration and IT support fundamentals:
+
+- [Active Directory Domain Configuration](https://github.com/laurenda3/configure-ad) 
+  Windows Server domain setup with OUs, GPOs, and user/group management
+
+- [osTicket Post-Installation Configuration](https://github.com/laurenda3/osticket-post-config) 
+  Ticket lifecycle configuration, roles, SLAs, and escalation policies
+
+These projects support my understanding of the environments ServiceNow commonly integrates with.
+
+---
+
+## 🧠 Core Technical Skills
+
+**ServiceNow**
+- Custom Scoped Applications
+- Flow Designer & Approval Engine
+- Business Rules & Client Scripts
+- GlideRecord API
+- Service Portal
+- Platform Analytics
+- Scripted REST APIs
+
+**Programming**
+- JavaScript
+- JSON
+- SQL
+- Python (supporting projects)
+
+**Architecture & Analysis**
+- Relational data modeling
+- Process automation
+- Integration design
+- Requirements translation
+- Compliance-driven system design
+
+---
+
+## 🔗 Connect & Review
+
+- **GitHub:** Browse repositories for detailed READMEs, screenshots, and architecture explanations  
+- **LinkedIn:** linkedin.com/in/lauland 
+- **Portfolio Site:** lauland.dev
+
+---
+
+**Approach:**  
+Build systems that reduce manual effort, enforce policy through design, and provide clear operational visibility—without overengineering or unnecessary complexity.
